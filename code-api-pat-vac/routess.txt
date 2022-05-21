@@ -1,0 +1,7 @@
+http://localhost:7071/api/patient/get/{id?}
+http://localhost:7071/api/patient/post/{id?}
+http://localhost:7071/api/patient/delete/{id?}
+
+http://localhost:7071/api/vaccine/get/{id?}
+http://localhost:7071/api/vaccine/post/{id?}
+http://localhost:7071/api/vaccine/delete/{id?}
